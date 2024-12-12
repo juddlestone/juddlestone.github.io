@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jack Huddlestone 👋🏻
+title: Jack H. 👋🏻
 
-tagline: There is always something new to learn.
+tagline: Curiosity driven notes.
 
 description: >- # used by seo meta and the atom feed
   A blog for learnings, thoughts, and ideas. Mainly technical ones.
